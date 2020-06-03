@@ -19,3 +19,4 @@ tests/report/
 *.sqlite3
 venv/
 *.swp
+.env
